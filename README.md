@@ -12,7 +12,7 @@ About Me:
 Skills:
 - *Frontend*: HTML, CSS, JavaScript
 - *Frameworks*: Bootstrap
-- *Languages*: Learning C++ and Data Structures & Algorithms (DSA)
+- *Languages*: 
 
 What I'm Working On:
 - 🚀 *Strengthening my full-stack development skills*
