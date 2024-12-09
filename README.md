@@ -2,14 +2,9 @@
 
 
 HI there, I'm Rajkumar!* 👋  
-*(You can call me Raj)*
-
-About Me:
-- 🎓 *Pursuing a Bachelor's in Computer Science*
-- 💻 *Aspiring Full Stack Developer*
-- 🔍 *Eager to learn and explore new technologies*
+*(You can call me Raj)
 # 💫 About Me:
-I  am currently working on small projects.<br>I  am  currently in college focusing on my skills.<br>I  am  always ready to learn new things and develop my skills.<br>Always open to collaborate  to learn and build with my best of myself.<br>
+I  am currently working on small projects.<br>I  am in college ,focusing on my skills.<br>I  am  always ready to learn new things and develop my skills.<br>Always open to collaborate  to learn and build with my best of myself.<br>
 
 
 ## 🌐 Socials:
